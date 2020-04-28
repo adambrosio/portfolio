@@ -9,3 +9,7 @@ body {
 .navbar-brand {
     font-family: 'Baloo Bhai 2', cursive;
 }
+
+.index-text {
+    text-align: center;
+}
