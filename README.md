@@ -1,6 +1,3 @@
-portfolio
+#portfolio
 
-// NOT COMPLETED AS OF 8/25
-// Updated portfolio page with project 1 and two homeworks 
-// Links to deployed site and repo
-// Need to add additional project(s)
+Portfolio containing projects and assignments from work I've done over the past few months.
