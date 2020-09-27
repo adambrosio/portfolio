@@ -11,8 +11,19 @@ body {
 
 .text-secondary {
     font-family: 'Baloo Bhai 2', cursive;
-    color: white;
     text-align: center;
+    font-size: 22px;
+    color: white;
+}
+
+.heading {
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+.about-me {
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
     font-size: 22px;
 }
 
