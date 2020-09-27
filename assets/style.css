@@ -38,3 +38,11 @@ body {
 .text-secondary {
     color: white;
 }
+
+.contact {
+    color:white;
+}
+
+.purple {
+    background-color: rgba(129, 10, 129, 0.788);
+}
